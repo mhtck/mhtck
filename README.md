@@ -1,7 +1,6 @@
 ## Hey There I'm Mehmet Çiçek  &nbsp;&nbsp;<span style='font-size:30px;'>&#127993;</span> 
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=mhtck&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="mukireus"/>
-
 <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtck&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="mukireus"/>
 </a>
 
